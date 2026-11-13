@@ -1,111 +1,76 @@
 <h1 align="center">Oi, eu sou a Kettly</h1>
 
 <p align="center">
-  <a href="https://github.com/wildkett">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Apps%2C+jogos+e+automa%C3%A7%C3%B5es;Do+primeiro+commit+at%C3%A9+algu%C3%A9m+usando;Se+%C3%A9+repetitivo%2C+vira+script" alt="Apps, jogos e automações" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=480&lines=Web%2C+automa%C3%A7%C3%A3o+e+jogos;Do+primeiro+commit+at%C3%A9+algu%C3%A9m+usando;Se+%C3%A9+repetitivo%2C+vira+script" alt="Web, automação e jogos" />
 </p>
 
-<p align="center">
-  Desenvolvedora em São Paulo, formada em Jogos Digitais.<br>
-  Já publiquei app na App Store, fiz jogo em game jam, escrevi robô que roda sozinho e passei anos no suporte ouvindo quem usa o produto.<br>
-  O que liga tudo isso: gosto de construir coisas que funcionam de verdade para alguém.
-</p>
+Sou desenvolvedora em São Paulo, formada em Jogos Digitais pela Fatec e com bootcamp de Full Stack na Atlântico Avanti. Gosto de colocar coisa no ar e de cuidar para que continue funcionando depois, por isso quase tudo que faço tem teste.
 
-```python
-kettly = {
-    "base": "São Paulo, SP",
-    "formação": "Jogos Digitais, Fatec Carapicuíba (2026)",
-    "já construí": ["app iOS na App Store", "jogos em Unity", "robô que roda sozinho", "automações com testes"],
-    "vinda do": "suporte N1/N2 e comunidade de jogos",
-    "gosto de": ["automatizar o que é repetitivo", "testar antes de entregar", "terminar o que começo"],
-    "estudando": ["Python mais a fundo", "Power BI", "Power Automate"],
-    "idiomas": ["português", "inglês B2 (TOEIC 790)"],
-}
-```
+Antes de programar, passei quase dois anos no suporte e na comunidade da InnoGames. Ficou o hábito de pensar primeiro em quem vai usar.
 
----
+- Faço produção, game design e código no [Shiiu Studio](https://kexter.itch.io), um estúdio independente de jogos
+- Tenho um robô em Playwright rodando sozinho no GitHub Actions desde julho de 2026
+- Criei [automações em Python para rotinas de RH](https://github.com/wildkett/automacao_RH): consolidar planilhas de várias filiais, validar CPF e datas, separar as inconsistências e arquivar atestados, holerites e contratos, tudo coberto por testes
+- Aprofundando conhecimentos em Python e nos fundamentos de Power BI
 
-### Um pouco de cada lado
+### Stack
 
-**Apps.** Publiquei sozinha o **Amor&Contas**, app iOS em Swift e SwiftUI, do primeiro commit até a aprovação da Apple. Hoje está na versão 1.4, com compra dentro do app e 12 idiomas.
+**Web**<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Jogos.** É a minha formação e o lugar onde comecei a programar. No **Shiiu Studio** faço produção, game design e programação em Unity e C#.
+**Automação e testes**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Automação e testes.** Tenho um robô em Node.js e Playwright rodando no GitHub Actions desde julho de 2026, e scripts em Python que consolidam planilhas e organizam documentos. Tudo com testes, porque código que ninguém confere quebra em silêncio.
+**Jogos**<br>
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
 
-**Pessoas.** Comecei no suporte N1/N2 e na supervisão de comunidade da InnoGames. Foi ali que aprendi a pensar primeiro em quem vai usar o que eu construo.
+**Mobile**<br>
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 
----
+**Dia a dia**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Projetos em destaque
+### Projetos
 
-**[Amor&Contas](https://apps.apple.com/us/app/amor-contas-bill-splitter/id6759450917)** · Swift, SwiftUI, StoreKit 2
-App para casais dividirem despesas. Publicado na App Store, com compra dentro do app e 12 idiomas. [Repositório](https://github.com/wildkett/AmorEContas).
-
-**[monitor-agendamento](https://github.com/wildkett/monitor-agendamento)** · Node.js, Playwright, GitHub Actions
-Confere um site de agendamento a cada 20 minutos e avisa no Telegram quando abre vaga. Roda contra um site legado em JSF/PrimeFaces, com 36 testes, credenciais em secrets e captura de tela a cada falha.
-
-**[automacao_RH](https://github.com/wildkett/automacao_RH)** · Python, pandas, openpyxl, pytest
-Junta planilhas de várias filiais, valida CPF e datas e gera um Excel com a base, o resumo e as inconsistências. Também organiza documentos em pastas, com modo de simulação e detecção de cópias.
-
-**[Jogos no itch.io](https://kexter.itch.io)** · Unity, C#, Construct 2
-Jogos de game jam e protótipos do Shiiu Studio.
-
----
-
-### Ferramentas
-
-**Linguagens e frameworks**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" title="Swift" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="38" height="38"/>
-</p>
-
-**Jogos**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="38" height="38"/>
-</p>
-
-**Testes, dados e automação**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="pytest" title="pytest" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="38" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="38" height="38"/>
-</p>
-
----
+- **[monitor-agendamento](https://github.com/wildkett/monitor-agendamento)**: confere um site de agendamento a cada 20 minutos e avisa no Telegram quando abre vaga. Node.js, Playwright e 36 testes.
+- **[automacao_RH](https://github.com/wildkett/automacao_RH)**: junta planilhas de filiais diferentes, valida os dados e organiza documentos em pastas. Python, pandas e pytest.
+- **[Amor&Contas](https://github.com/wildkett/AmorEContas)**: app para casais dividirem despesas, [publicado na App Store](https://apps.apple.com/us/app/amor-contas-bill-splitter/id6759450917). Swift e SwiftUI.
+- **[Jogos no itch.io](https://kexter.itch.io)**: game jams e protótipos do Shiiu Studio. Unity, C# e Construct 2.
 
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kettly-lima)
 [![E-mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kettly.pfics@gmail.com)
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://kexter.itch.io)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/amor-contas-bill-splitter/id6759450917)
 
-Aberta a vagas júnior em desenvolvimento software/web, QA, automação de processos e suporte técnico.
+Aberta a vagas júnior em desenvolvimento web, QA e automação.
 
 <details>
 <summary><b>English</b></summary>
 
 <br>
 
-Developer based in São Paulo, Brazil, with a degree in Digital Games. I've shipped an app to the App Store, made games in game jams, written a bot that runs on its own and spent years in support listening to the people who use the product. What ties it together: I like building things that actually work for someone.
+I'm a developer in São Paulo, Brazil, with a degree in Digital Games from Fatec and a Full Stack bootcamp from Atlântico Avanti. I like getting things live and keeping them working afterwards, which is why most of what I build has tests.
 
-- **Apps.** Built and shipped **Amor&Contas** on my own, a native iOS app in Swift and SwiftUI, now at version 1.4 with in-app purchases and 12 languages.
-- **Games.** My degree and where I started coding. At **Shiiu Studio** I work on production, game design and programming in Unity and C#.
-- **Automation and testing.** A Node.js and Playwright bot that has run unattended on GitHub Actions since July 2026, plus Python scripts that consolidate spreadsheets and file documents, all with tests.
-- **People.** Started in L1/L2 support and community supervision at InnoGames, which is where I learned to think about the person using what I build first.
+Before coding, I spent almost two years in support and community work at InnoGames, and I still think about the person using it first.
 
-Degree in Digital Games from Fatec Carapicuíba (2026). Upper-Intermediate English (B2, TOEIC 790). Open to junior roles in development software/web, QA, process automation and technical support.
+- Production, game design and code at [Shiiu Studio](https://kexter.itch.io), an indie game studio
+- A Playwright bot that has run on its own on GitHub Actions since July 2026
+- [Python automations for HR routines](https://github.com/wildkett/automacao_RH): consolidating spreadsheets from several branches, validating IDs and dates, flagging inconsistencies and filing medical certificates, payslips and contracts, all covered by tests
+- Deepening my knowledge of Python and the fundamentals of Power BI
+
+English: Upper-Intermediate (B2, TOEIC 790). Open to junior roles in web development, QA and automation.
 
 </details>

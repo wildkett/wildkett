@@ -11,7 +11,7 @@ Antes de programar, passei quase dois anos no suporte e na comunidade da InnoGam
 - Faço produção, game design e código no [Shiiu Studio](https://kexter.itch.io), um estúdio independente de jogos
 - Tenho um robô em Playwright rodando sozinho no GitHub Actions desde julho de 2026
 - Criei [automações em Python para rotinas de RH](https://github.com/wildkett/automacao_RH): consolidar planilhas de várias filiais, validar CPF e datas, separar as inconsistências e arquivar atestados, holerites e contratos, tudo coberto por testes
-- Aprofundando conhecimentos em Python e nos fundamentos de Power BI
+- Aprofundando conhecimentos em Python
 
 ### Stack
 
